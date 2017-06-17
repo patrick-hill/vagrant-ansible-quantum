@@ -1,5 +1,5 @@
-# Vagrant-Ansible: Ansible Tower
-Vagrant project to test my [ansible-playbook-ansible-tower](https://github.com/patrick-hill/ansible-playbook-ansible-tower) playbook
+# Vagrant-Ansible: Quantum
+Vagrant project to test my [ansible-playbook-quantum](https://github.com/patrick-hill/ansible-playbook-quantum) playbook
 
 # Requirements
 Vagrant 1.7.4+ [https://www.vagrantup.com/]   
@@ -15,4 +15,3 @@ CentOS 7.1 Vagrant Boxes (Possibly 6.7)
 2. Make any needed changes to run.properties
 3. Run `./run.sh`
 4. Browse to `https://localhost:8443`
-5. Login with admin/admin
